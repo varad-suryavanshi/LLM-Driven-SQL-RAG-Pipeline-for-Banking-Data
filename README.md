@@ -1,6 +1,4 @@
-### 📄 `README.md`
 
-```markdown
 # 🏦 LLM-Driven SQL RAG Pipeline for Banking Data
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain**, **OpenAI**, and **Streamlit** to enable natural language interaction with a structured SQL database containing synthetic banking data.
@@ -154,5 +152,4 @@ You are free to use, modify, and distribute with attribution.
 
 Made with 💡 by [Varad Suryavanshi](https://github.com/varad-suryavanshi)  
 For intelligent interaction with structured financial data using LLMs.
-```
 
