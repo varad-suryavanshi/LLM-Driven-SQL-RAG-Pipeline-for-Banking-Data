@@ -1,0 +1,11 @@
+# Ignore virtual env and data
+bank_rag_env/
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.log
+.ipynb_checkpoints/
+.env
+
