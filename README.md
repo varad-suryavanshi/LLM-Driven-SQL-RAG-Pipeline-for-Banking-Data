@@ -44,7 +44,7 @@ bank-rag-pipeline/
 ├── .gitignore              # Excludes virtual env and local data
 ```
 
-> 🚫 `data/` and `bank_rag_env/` are intentionally excluded from version control.
+
 
 ---
 
