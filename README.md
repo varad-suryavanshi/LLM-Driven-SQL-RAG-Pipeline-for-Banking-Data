@@ -150,6 +150,6 @@ You are free to use, modify, and distribute with attribution.
 
 ---
 
-Made with 💡 by [Varad Suryavanshi](https://github.com/varad-suryavanshi)  
+Made by [Varad Suryavanshi](https://github.com/varad-suryavanshi)  
 For intelligent interaction with structured financial data using LLMs.
 
